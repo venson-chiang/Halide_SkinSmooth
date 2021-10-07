@@ -8,7 +8,7 @@ Halide 12.0.0 or above: https://github.com/halide/Halide
 <img src="https://github.com/venson-chiang/Halide_SkinSmooth/blob/main/test_images/output1.png" width="50%" height="50%">
 
 # Usage
-1. Change halide library directory to yours in Makefile.inc
+1. Change HALIDE_DISTRIB_PATH to yours in Makefile.inc
 ```
 HALIDE_DISTRIB_PATH ?= /mnt/d/Software/Halide-12/distrib 
 ```
