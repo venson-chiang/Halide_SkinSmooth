@@ -1,5 +1,5 @@
 # Halide_SkinSmooth
-Skinsmooth processing using Halide
+Skinsmooth using Halide
 
 # Requirements
 Halide 12.0.0 or above: https://github.com/halide/Halide
