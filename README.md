@@ -32,5 +32,5 @@ make test
 ```
 
 # Reference
-The method used in this project is reference to https://github.com/cpuimage/skin_smoothing
+SkinSmooth method is reference to https://github.com/cpuimage/skin_smoothing
 
