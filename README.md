@@ -5,13 +5,9 @@ Skinsmooth using Halide
 Halide 12.0.0 or above: https://github.com/halide/Halide
 
 # Methods
-1.Resize input image to get low resolution image for deep learning.
+1.Detect how much skin color in the image, to calculate filter radius.
 
-2.Apply laplacian pyramid and deep learning model to correct exposure of image.
-
-3.Apply Bilateral Guided Upsampling to get high resolution exposure corrected image. 
-
-4.Fuse input image and exposure corrected image to get better performance of exposure correction.
+2.Apply SkinSmooth filter to denoise skin in the image.
 
 # Input Images
 Input images are reference from https://www.cnblogs.com/cpuimage/p/13172510.html
